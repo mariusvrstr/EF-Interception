@@ -1,0 +1,6 @@
+[submodule "Spike.Instrumentation"]
+	path = Spike.Instrumentation
+	url = https://github.com/mariusvrstr/Spike-Instrumentation.git
+[submodule "SDK"]
+	path = SDK
+	url = https://github.com/mariusvrstr/Spike-SDK.git
